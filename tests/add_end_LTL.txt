@@ -1,0 +1,3 @@
+				TRUE : vec;
+		esac;
+LTLSPEC F (vec = 0)

@@ -1,0 +1,3 @@
+				TRUE : vec;
+		esac;
+CTLSPEC AF (vec = 0)
